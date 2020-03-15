@@ -22,7 +22,7 @@ import org.bukkit.inventory.meta.ItemMeta;
 public class LotteryHelper implements Runnable {
     public static final int[] INTS = {12, 13, 14, 21, 22, 23, 30, 31, 32};
     public static final HashMap<String, PlayerLotteryInfo> LOTTERY_PLAYERS = new HashMap<>();
-    public static final String TITLE_PREFIX = "§cBetterLottery-";
+    public static final String TITLE_PREFIX = "Lottery-";
 
     private static void showGui(Player player, Inventory inventory) {
         player.closeInventory();

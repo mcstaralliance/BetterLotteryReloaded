@@ -19,14 +19,15 @@ import org.bukkit.inventory.meta.ItemMeta;
 
 public class GuiHelper {
     public static final HashMap<String, String> CREATING_OPS = new HashMap<>();
-    public static final String MENU_TITLE = "               Lottery-奖池菜单";
+    public static final String TITLE_PREFIX = "            Lottery-";
+    public static final String MENU_TITLE = TITLE_PREFIX + "奖池菜单";
     public static final String MESSAGE_PREFIX = "[§aBetterLotteryReload§f] ";
     public static final HashMap<String, Integer> SELECT_POOL_OPS = new HashMap<>();
-    public static final String SELECT_POOL_TITLE = "               Lottery-选择操作";
+    public static final String SELECT_POOL_TITLE = TITLE_PREFIX + "选择操作";
     public static final HashMap<String, Integer> SETTING_ODDS_OPS = new HashMap<>();
     public static final HashMap<String, InventoryInfo> SETTING_OPS = new HashMap<>();
-    public static final String SETTING_TITLE = "               Lottery-更改设置";
-    public static final String TITLE_PREFIX = "         Lottery-";
+    public static final String SETTING_TITLE = TITLE_PREFIX + "更改设置";
+
 
     private static void showGui(Player player, Inventory inventory) {
         player.closeInventory();

@@ -7,11 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82b75787-4333-4d20-bafb-ec1135541072" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/BetterLottery_Reloaded/BetterLottery-Reloaded.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cn/xtuly/mcp/betterlotteryreloaded/GuiHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xtuly/mcp/betterlotteryreloaded/GuiHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/xtuly/mcp/betterlotteryreloaded/LotteryHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/xtuly/mcp/betterlotteryreloaded/LotteryHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/betterlotteryreloaded/BLREvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/betterlotteryreloaded/BLREvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/betterlotteryreloaded/GuiHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/betterlotteryreloaded/GuiHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/betterlotteryreloaded/LotteryHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/xtuly/mcp/betterlotteryreloaded/LotteryHelper.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,12 +95,25 @@
       <workItem from="1584186844567" duration="108000" />
       <workItem from="1584187126462" duration="6783000" />
       <workItem from="1584231230540" duration="6671000" />
-      <workItem from="1584240873219" duration="625000" />
+      <workItem from="1584240873219" duration="856000" />
+      <workItem from="1584241875907" duration="76000" />
     </task>
+    <task id="LOCAL-00001" summary="Change prefix">
+      <created>1584241623088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584241623088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change prefix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change prefix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="321" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584183535105">
@@ -115,10 +128,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="481" y="301" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.864@0.0.1536.864" timestamp="1584238094388" />
-    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1584241614969">
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1584242024675">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1584241614969" />
+    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1584242024675" />
     <state x="549" y="186" key="FileChooserDialogImpl" timestamp="1584186621687">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -127,6 +140,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="227" y="62" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584193084382" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1584241745874">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1584241745874" />
     <state x="447" y="31" width="782" height="801" key="find.popup" timestamp="1584234359490">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
